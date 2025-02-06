@@ -1,9 +1,9 @@
 {
     "name": "我的PWA应用",
-    "short_name": "PWA",
+    "short_name": "40K_Clock",
     "start_url": "./index.html",
     "display": "fullscreen",
-    "background_color": "#ffffff",
+    "background_color": "#000000",
     "theme_color": "#000000",
     "icons": [
         {
